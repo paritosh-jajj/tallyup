@@ -1,4 +1,6 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# TallyUp
+
+TallyUp is a free, lightweight scorekeeping and leaderboard app for friends and teams. Track wins, losses, and seasons across any game — from casual matches to competitive rivalries.
 
 ## Getting Started
 
